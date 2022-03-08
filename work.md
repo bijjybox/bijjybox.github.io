@@ -28,8 +28,6 @@ CMS (Cloud Managed Services) is about creating a managed `SAP` system for variou
 - Development for standalone compliance scans to enforce project standards, flexible enough to handle majority of customer build use-cases
 - End-to-End enablement of SAP automation on new Linux platforms
 
-`Environment:`
-- Suse 12/15, Redhat Linux 6/7/8
+`Environment:` Suse 12/15, Redhat Linux 6/7/8
 
-`Tools/Technologies:`
-- Chef Devops + Ruby + Ansible + Inspec + Shell/Python Scripting + Git + Jenkins 
+`Tools/Technologies:` Chef Devops + Ruby + Ansible + Inspec + Shell/Python Scripting + Git + Jenkins 
