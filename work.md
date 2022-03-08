@@ -17,7 +17,7 @@ Below are tools and technologies that I work upon
 
 #### Kyndryl (IBM) - Oct 2020 - Feb 2022
 
-**Project - Cloud Managed Services (Cloud based application)**
+**`Project - Cloud Managed Services (Cloud based application)`**
 
 CMS (Cloud Managed Services) is about creating a managed `SAP` system for various customers. My squad mainly worked in development of `SAP` automation via configuration management tools, validate/configure base OS for SAP enablement, enable automated features to ease the build process. Automation is flexible enough to support 3 clouds and various SAP products in combination with 4 databases.
      
@@ -32,4 +32,4 @@ CMS (Cloud Managed Services) is about creating a managed `SAP` system for variou
 - Suse 12/15, Redhat Linux 6/7/8
 
 `Tools/Technologies:`
-Chef Devops + Ruby + Ansible + Inspec + Shell/Python Scripting + Git + Jenkins 
+- Chef Devops + Ruby + Ansible + Inspec + Shell/Python Scripting + Git + Jenkins 
