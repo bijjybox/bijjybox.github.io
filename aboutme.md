@@ -8,8 +8,8 @@ Hi, I am Megha Kumari, 23F, living currently in New Delhi. I have the following 
 
 - I talk about tech stuff like Kubernetes, Chef and Ansible Automation
 - I love reading books related to fiction, finance and fantasy
-- I like exploring cafe's around me. Currently loving The BlueBerry Mojito from [Spezia Bistro](https://www.zomato.com/ncr/spezia-bistro-delhi-university-gtb-nagar-new-delhi/menu) and Cheesy Fries from [Xero Degrees](https://www.zomato.com/ncr/xero-degrees-connaught-place-new-delhi/menu)
-- I am also an occasional photographer, you can check out my pictures at [bijjybox_clicks](https://www.instagram.com/bijjybox_clicks/)
+- I like exploring cafe's around me. Currently loving The BlueBerry Mojito from [`Spezia Bistro`](https://www.zomato.com/ncr/spezia-bistro-delhi-university-gtb-nagar-new-delhi/menu) and Cheesy Fries from [`Xero Degrees`](https://www.zomato.com/ncr/xero-degrees-connaught-place-new-delhi/menu)
+- I am also an occasional photographer, you can check out my pictures at [`bijjybox_clicks`](https://www.instagram.com/bijjybox_clicks/)
 
 What else do you need?
 
