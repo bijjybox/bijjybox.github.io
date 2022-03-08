@@ -27,18 +27,22 @@ What else do you need?
 - Fixed UI for launching, building, publishing or enterprising Firefox extensions [Ruby]
 - Worked on localisation of scripts, added flow coverage to code
 - Fixed deprecated code [ReactJS], Listing rules for layout, extensions and improving the Firefox documentation [JS]
+
 **Learning** : Product + Software Lifecycle + Code coverage + Debugging
 
 #### PyCon India - Public Relations Lead, Present
 - Leads the team that creates posts for the social media handles and manages the online meetings with the speakers and internal work groups.
+
 **Learning** : Community Involvement + Event Organization + Networking
 
 #### Mentor - Uhack, 2019
 - Mentored 70+ mentees at the hackathon and enhanced their ideation process. Projects were from various domains including Cyber Security, Mobile Development and Machine Learning.
+
 **Learning** : Mentoring + Problem Solving
 
 #### Enactus India - Project Lead, 2018
 - Project REAP under Enactus is an initiative to tackle the massive plastic pollution crisis. The project aims at recycling plastic bottles and plastic products with an innovative solution. 
+
 **Learning** : Team Management + Leadership + Social responsibility
 
 
