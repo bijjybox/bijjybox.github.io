@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Megha Kumari
 
 # Your name to show in the footer
-author: Some Person
+author: Megha Kumari
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  What I do?: "work"
 
 # --- Logo --- #
 
@@ -39,21 +39,19 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "meghajais.mj@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
+  facebook: bijjybox
+  github: bijjybox
+  twitter: bijjybox
+  medium: bijjybox
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: bijjybox
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  snapchat: bijjybox
+  instagram: bijjybox
+  spotify: bijjybox
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -76,11 +74,16 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  github: true
+  medium: true
+  snapchat: true
+  instagram: true
+  spotify: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "bijjybox.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
