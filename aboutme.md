@@ -31,7 +31,7 @@ What else do you need?
 #### PyCon India - Public Relations Lead, Present
 - Leads the team that creates posts for the social media handles and manages the online meetings with the speakers and internal work groups.
 
-#### Mentor - Uhack, 2019
+#### Uhack - Mentor, 2019
 - Mentored 70+ mentees at the hackathon and enhanced their ideation process. Projects were from various domains including Cyber Security, Mobile Development and Machine Learning.
 
 #### Enactus India - Project Lead, 2018
