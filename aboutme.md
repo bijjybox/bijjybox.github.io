@@ -23,7 +23,7 @@ What else do you need?
 
 
 ### Volunteer Experience
-#### MOZILLA, Firefox Engine + Addons + Extension Workshop + WebCompat, Present
+#### MOZILLA - Present
 - Fixed UI for launching, building, publishing or enterprising Firefox extensions [Ruby]
 - Worked on localisation of scripts, added flow coverage to code
 - Fixed deprecated code [ReactJS], Listing rules for layout, extensions and improving the Firefox documentation [JS]
