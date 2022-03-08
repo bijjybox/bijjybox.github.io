@@ -16,7 +16,10 @@ What else do you need?
 
 ### My story
 
-I completed my Intermediate in 2015 and was the topper of Science stream (lil showoff :P). I graduated from Indira Gandhi Delhi Technical University for Women in 2020 with ECE background. And then I joined in the IT career (mera bachpan se sapna tha engineer banne ka bygod!)
+- I completed my Intermediate in 2015 and was the topper of Science stream (lil showoff :P). 
+- I graduated from Indira Gandhi Delhi Technical University for Women in 2020 with ECE background. And then I joined in the IT career 
+
+`mera bachpan se sapna tha engineer banne ka bygod!`
 
 
 ### Contact me
