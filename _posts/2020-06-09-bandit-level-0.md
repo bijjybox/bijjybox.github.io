@@ -89,6 +89,7 @@ Files with spaces in their name can be accessed in this way.
 
 ## Bandit Level 3 → Level 4
 
+{: .box-warning}
 **Level Goal:** The password for the next level is stored in a hidden file in the **inhere** directory.
 
 ```console
