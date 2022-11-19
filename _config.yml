@@ -39,7 +39,7 @@ round-avatar: true
 social-network-links:
   email: "meghajais.mj@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: bijjybox
+  #facebook: bijjybox
   github: bijjybox
   twitter: bijjybox
   medium: bijjybox
@@ -47,9 +47,9 @@ social-network-links:
   linkedin: bijjybox
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-  snapchat: bijjybox
+  #snapchat: bijjybox
   instagram: bijjybox
-  spotify: bijjybox
+  #spotify: bijjybox
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
