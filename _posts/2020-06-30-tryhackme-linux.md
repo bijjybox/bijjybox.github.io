@@ -19,6 +19,7 @@ The first requirement is to deploy the machine.
 ```sh
     echo -n hello
 ```
+
 **[Task 7] [Section 3: Basic File Operations] — ls**
 
 1. What flag outputs all entries
